@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# yt-dlp downloads
+temp_downloads/
+Downloads/
+*.mp3
+*.mp4
+*.webm
