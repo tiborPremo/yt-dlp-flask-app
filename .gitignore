@@ -224,5 +224,5 @@ Downloads/
 *.mp4
 *.webm
 
-*.cookies
 cookies.txt
+*.cookies
